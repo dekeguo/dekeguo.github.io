@@ -1,2 +1,2 @@
 # dekeguo.github.io
-This is the homepage of Prof. Xiang Zhao, PhD UNSW. He is currently with College of Systems Engineering, National University of Defense Technology (NUDT), and his research interests include Knowledge Graphs, Graph Data Analytics, and Natural Language Processing. Thank you for visting.
+This is the homepage of Prof. Deke Guo, PhD NUDT. He is currently with College of Systems Engineering, National University of Defense Technology (NUDT), and his research interests include distributed systems, software-defined networking, data center networking, wireless and mobile systems, and interconnection networks. He is a senior member of the IEEE and a member of the ACM. Thank you for visting.
