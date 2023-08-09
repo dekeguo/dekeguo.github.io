@@ -22,7 +22,7 @@
     <h2><b>Deke Guo</b>, PhD NUDT</h2>
     <p>
     <b>Professor</b>
-      <br/><font size="3">- Laboratory for Big Data and Decision, College of Systems Engineering
+      <br/><font size="3">- College of Systems Engineering
       <br/>- <a href="https://english.nudt.edu.cn/" target="_blank">National University of Defense Technology</a></font>
       <br/><b>Email</b>: guodeke <i>at</i> gmail.com
       <br/><b>Phone</b>: +86 139 7312 3194
