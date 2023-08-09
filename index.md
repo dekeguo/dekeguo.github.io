@@ -19,14 +19,14 @@
          style="object-fit:scale-down; object-position:center; width:185px; height:300x" />
   </div>
   <div style="height:260px;width:570px;margin:90px auto 30px 15px;float:left">
-    <h2><b>Deke Guo</b>, PhD UNSW</h2>
+    <h2><b>Deke Guo</b>, PhD NUDT</h2>
     <p>
     <b>Professor</b>
       <br/><font size="3">- Laboratory for Big Data and Decision, College of Systems Engineering
       <br/>- <a href="https://english.nudt.edu.cn/" target="_blank">National University of Defense Technology</a></font>
-      <br/><b>Email</b>: xiangzhao <i>at</i> nudt.edu.cn
-      <br/><b>Phone</b>: +86 731 8700 6440
-      <br/><b>Facsimile</b>: +86 731 8457 3514
+      <br/><b>Email</b>: guodeke <i>at</i> gmail.com
+      <br/><b>Phone</b>: +86 139 7312 3194
+<!--       <br/><b>Facsimile</b>: +86 731 8457 3514 -->
       <br/><b>Address</b>: 109 Deya Road, Changsha, Hunan, China (410073)</p>
   </div>
 </div>
