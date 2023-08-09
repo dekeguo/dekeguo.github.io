@@ -34,9 +34,9 @@
 
 <div style="width:860px;margin:0px auto">
 <h3><b>Short Biography</b></h3>
-  <p style="text-align:justify; text-justify:inter-ideograph">
+<!--   <p style="text-align:justify; text-justify:inter-ideograph">
     <b>Deke Guo</b> (郭得科) is currently a full professor at College of Systems Engineering, <a href="https://english.nudt.edu.cn/" target="_blank">National University of Defense Technology</a> (NUDT), China, where he also serves as the head of the direction of knowledge systems engineering. During 2015-2019, he was also a concurrent research fellow at <a href="http://innogst.whu.edu.cn/" target="_blank">Collaborative Innovation Center of Geospatial Technology</a>, China, led by Prof. <a href = "http://en.whu.edu.cn/info/1073/1569.htm" target = "_blank">Deren Li</a> (李德仁) and Prof. <a href="http://en.whu.edu.cn/info/1073/1568.htm" target="_blank">Jianya Gong</a> (龚健雅).
-    </p>
+    </p> -->
   
 <p style="text-align:justify; text-justify:inter-ideograph">
 <b>Deke Guo</b> (郭得科) received his B.E. degree in Department of Industry Engineering from Beijing University of Aeronautic and Astronautic, and his Ph.D. degree in School of Information System and Management, National University of Defense Technology. He is currently a Professor with the College of System Engineering, National University of Defense Technology. His research interests include distributed systems, software-defined networking, data center networking, wireless and mobile systems, and interconnection networks. He is a senior member of the IEEE and a member of the ACM. He was a visiting scholar at Department of Computer Science and Engineering in Hong Kong University of Science and Technology from Jan. 9 2007 to Jan. 9 2009, under supervision of Dr. <a href="http://www.cse.ust.hk/~liu" target="_blank"> Yunhao Liu</a>. He was a visiting scholar in School of Computer Engineering, Nanyang Technological University, from Dec. 1 2011 to Jun. 1 2012.
