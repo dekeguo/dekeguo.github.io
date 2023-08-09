@@ -5,8 +5,8 @@
     <meta name="renderer" content="webkit" />
     <meta name="viewport" content="width=device-width,initial-scale=1.0" />
     <title>Xiang Zhao's Homepage</title>
-    <meta name="keywords" content="Xiang Zhao,NUDT,UNSW,database,big data,knowledge graph,graph data,representation learning,recommender system,information network,Xuemin Lin,Wei Wang,Raymong Wong,赵翔,国防科大,大数据,数据库,知识图谱,图数据,表示学习,推荐系统,信息系统,信息网络,郑庆华,林学民,王炜,李德仁,肖卫东,张维明" /> 
-    <meta name="description" content="Welcome to Xiang Zhao's Personal Homepage! Ph.D., the University of New South Wales (UNSW); Prof., National University of Defense Technology (NUDT)" />
+    <meta name="keywords" content="Deke Guo, NUDT, UNSW,database,big data,knowledge graph,graph data,representation learning,recommender system,information network,Xuemin Lin,Wei Wang,Raymong Wong,赵翔,国防科大,大数据,数据库,知识图谱,图数据,表示学习,推荐系统,信息系统,信息网络,郑庆华,林学民,王炜,李德仁,肖卫东,张维明" /> 
+    <meta name="description" content="Welcome to Deke Guo's Personal Homepage! Ph.D., National University of Defense Technology (NUDT); Prof., National University of Defense Technology (NUDT)" />
     <meta name="google-site-verification" content="e8QBQDtgOAVTuMNJp-5g7BJoPB34wMEFcz0RBBmo5B8" />
     <meta name="baidu-site-verification" content="3FTe6ikuh9" />
   </head>
